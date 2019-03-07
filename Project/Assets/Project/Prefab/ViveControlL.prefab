@@ -1046,7 +1046,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000101
+        actionIsOpen: 01010101
         actionStartIndex: 00000000030000000800000016000000
         actionHashCodes: c030f103c34b4105c6a348021bcdca04
         unityObjectParams: []
@@ -1076,7 +1076,7 @@ MonoBehaviour:
         layoutOptionParams: []
         fsmStringParams:
         - useVariable: 1
-          name: String/3DAnimation
+          name: GString/3DAnimation
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1088,7 +1088,7 @@ MonoBehaviour:
           networkSync: 0
           value: 
         - useVariable: 1
-          name: String/3DAnimation
+          name: GString/3DAnimation
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1286,7 +1286,7 @@ MonoBehaviour:
         layoutOptionParams: []
         fsmStringParams:
         - useVariable: 1
-          name: String/3DAnimation
+          name: GString/3DAnimation
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1304,13 +1304,13 @@ MonoBehaviour:
           networkSync: 0
           value: 
         - useVariable: 1
-          name: String/3DAnimation
+          name: GString/3DAnimation
           tooltip: 
           showInInspector: 0
           networkSync: 0
           value: 
         - useVariable: 1
-          name: String/3DAnimation
+          name: GString/3DAnimation
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1419,12 +1419,6 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: 
-      - useVariable: 1
-        name: String/3DAnimation
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 
       vector2Variables: []
       vector3Variables: []
       colorVariables: []
@@ -1456,7 +1450,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 0000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
