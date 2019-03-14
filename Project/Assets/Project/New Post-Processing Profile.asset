@@ -62,7 +62,7 @@ MonoBehaviour:
         reflectionBlur: 1
         reflectBackfaces: 0
       intensity:
-        reflectionMultiplier: 0.3
+        reflectionMultiplier: 1
         fadeDistance: 100
         fresnelFade: 1
         fresnelFadePower: 1
